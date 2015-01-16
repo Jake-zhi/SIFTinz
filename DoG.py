@@ -1,9 +1,6 @@
-import os
 from Normalization import normalize
 from ReadImage import ReadImage
 from SaveImage import SaveImage
-from SavingNumpyImage import SavingImageAsNumpy
-from readNumpyImage import ReadNumpy
 
 __author__ = 'Agnieszka'
 

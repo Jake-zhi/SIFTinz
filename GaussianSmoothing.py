@@ -1,13 +1,12 @@
-from copy import copy, deepcopy
-from math import sqrt, ceil
-import os
+from copy import deepcopy
+from math import sqrt
+
 import numpy as np
+
 from skimage.filter import gaussian_filter
 from Normalization import normalize
 from ReadImage import ReadImage
 from SaveImage import SaveImage
-from SavingNumpyImage import SavingImageAsNumpy
-from readDicom import ReadDirWithBinaryData
 
 
 __author__ = 'Agnieszka'

@@ -1,10 +1,8 @@
 from copy import deepcopy
-import os
+
 from ReadImage import ReadImage
 from SaveImage import SaveImage
-from SavingNumpyImage import SavingImageAsNumpy
-from localExtermum import LocalExterma3D
-from readNumpyImage import ReadNumpy
+
 
 __author__ = 'Agnieszka'
 import numpy as np
