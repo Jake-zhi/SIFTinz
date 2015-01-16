@@ -1,9 +1,9 @@
 from matplotlib.pyplot import imshow, show
+
 from GaussianSmoothing import GaussianSmoothing3D, GaussianSmoothing2D
 from ReadImage import ReadImage
-from Vizualization import visualization2D, visualization3D
-from readDicom import ReadDirWithBinaryData
-from readNumpyImage import ReadNumpy
+from Vizualization import visualization3D
+
 
 __author__ = 'Agnieszka'
 

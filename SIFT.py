@@ -9,8 +9,8 @@ __author__ = 'Agnieszka'
 
 import time
 def main(agrv):
-    print(agrv)
-    path = agrv[1:]
+    print(agrv[1])
+    path = agrv[1]
 
     if not os.path.exists(path):
         raise IOError
