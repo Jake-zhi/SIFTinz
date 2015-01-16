@@ -1,4 +1,5 @@
 konieczna instalacja bibliotek z requirements.txt (polecany pakiet Anaconda)
-uruchomienie
+uruchomienie:
 python SIFT.py  ..gdzie dane zostaną skopiowane../SIFTinz/SIFT/data_1/
+maksymalne możliwe zurzycie pamięci RAM to ok. 7 GB.
 efekt dziania: wygenerowanie wektorów cech
