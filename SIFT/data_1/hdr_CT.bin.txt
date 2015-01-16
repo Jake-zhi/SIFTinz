@@ -1,0 +1,4 @@
+ width = 512;
+ height = 512;
+ depth = 74;
+ dataType = float32;
