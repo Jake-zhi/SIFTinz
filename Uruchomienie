@@ -1,0 +1,4 @@
+konieczna instalacja bibliotek z requirements.txt (polecany pakiet Anaconda)
+uruchomienie
+python SIFT.py  ..gdzie dane zostaną skopiowane../SIFTinz/SIFT/data_1/
+efekt dziania: wygenerowanie wektorów cech
