@@ -4,4 +4,4 @@ python SIFT.py  /SIFTinz/SIFT/data_1/
 efekt dziania: wygenerowanie wektorów cech
 UWAGA!
 maksymalne możliwe zurzycie pamięci RAM to ok. 7 GB. Przy mniejszej ilości dostępnej pamieci RAM,
-można spodziewać się znaczącego spowolnienia programu ze względu na zapis pracy proramuna dysk twardy.
+można spodziewać się znaczącego spowolnienia programu ze względu na zapis pracy proramu na dysk twardy.
